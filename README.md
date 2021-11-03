@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LightingWolf
 - 👀 I’m interested in Data Science, Backend Development, and Cybersecurity
-- 🌱 I’m currently learning Data Science using Visual Studio Code
+- 🌱 I’m currently learning Data Science using Visual Studio Code with the Jupyter Notebook Extension
 
 
 <!---
