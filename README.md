@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LightingWolf
 - 👀 I’m interested in Mobile development, and app development
-- 🌱 I’m currently learning C++, and kotlin 
+- 🌱 I’m currently learning Full Stack Java
 - 📚 I kmow Python, Html, Css
 - 📖 I've learned a little Data Science, Sql
 
