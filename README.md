@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LightingWolf
-- 👀 I’m interested in Mobile development, and app development
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in Backend Software development
 - 🌱 I’m currently learning Full Stack Java
-- 📚 I kmow Python, Html, Css
-- 📖 I've learned a little Data Science, Sql
+- 📚 I know Java, Html, Css, JS, React, Spring, Spring Boot
+- 📖 I've learned a little Data Science, Sql, C++
 
 
 <!---
