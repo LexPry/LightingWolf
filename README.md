@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander
 - 👀 I’m interested in Backend Software development
-- 🌱 I’m currently learning Full Stack Java
-- 📚 I know Java, Html, Css, JS, React, Spring, Spring Boot
+- 🌱 I’m currently learning React
+- 📚 I know Java, Html, Css, JS, Spring, Spring Boot
 - 📖 I've learned a little Data Science, Sql, C++
 
 
