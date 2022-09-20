@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander
 - 👀 I’m interested in Backend Software development
-- 🌱 I’m currently learning React
-- 📚 I know Java, Html, Css, JS, Spring, Spring Boot, React, and C++
+- 🌱 I’m currently learning Angular
+- 📚 I know Java, Html, Css, JS, Spring, Spring Boot, React, and a little C++
 - I am currently a fullstack developer at Genspark!
 
 
